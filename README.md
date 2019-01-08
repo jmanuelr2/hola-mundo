@@ -1,2 +1,2 @@
 # hola-mundo
-Esta es una prueba para aprender a usar githob
+Esta es una prueba para aprender a usar github
